@@ -3,7 +3,8 @@ base:
      - collectd
      - collectd.csv
      - collectd.service
-     - stressng-install
-     - stressng-execute
+     - stressng.execute
+     - stressng.install
+
   
      
