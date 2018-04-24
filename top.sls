@@ -6,6 +6,9 @@ base:
      - stressng.install
      - stressng.execute
      - sysinfo
+     - fio.install
+     - fio.execute
+     
 
 
   
