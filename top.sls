@@ -3,8 +3,8 @@ base:
      - collectd
      - collectd.csv
      - collectd.service
-     - stressng.install
-     - stressng.execute
+     - mtr.install
+     - mtr.execute
      - sysinfo
 
 
