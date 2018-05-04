@@ -1,13 +1,13 @@
 base:
   '*':
-     - collectd
-     - collectd.csv
-     - collectd.service
-     - sysinfo
+    - collectd
+    - collectd.csv
+    - collectd.service
+    - sysinfo
 mtr1:
   '*':
-     - mtr.install
-     - mtr.execute
+    - mtr.install
+    - mtr.execute
 
 
   
