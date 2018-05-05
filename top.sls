@@ -1,4 +1,4 @@
-mtr1:
+base:
   '*':
     - mtr.install
     - mtr.execute
