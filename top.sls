@@ -4,8 +4,9 @@ base:
     - collectd.csv
     - collectd.service
     - sysinfo
-    - mtr.install
-    - mtr.execute
+    - jmeter.install
+    - jmeter.execute
+    
 
 
   
