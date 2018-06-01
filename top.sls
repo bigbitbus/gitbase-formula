@@ -4,8 +4,7 @@ base:
     - collectd.csv
     - collectd.service
     - sysinfo
-    - jmeter.install
-    - jmeter.execute
+    - objbench.install
     
 
 
