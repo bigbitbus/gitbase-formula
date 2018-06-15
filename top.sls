@@ -4,8 +4,8 @@ base:
   #  - collectd.csv
   #  - collectd.service
     - sysinfo
-    - objbench.install
-    - objbench.execute
+    - stressng.install
+    - stressng.execute
 
 
   
