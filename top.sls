@@ -6,7 +6,7 @@ base:
     - sysinfo
     - stressng.install
     - stressng.execute
-    - bbbutils
+    - bbbutils.uploadresults
 
 
   
