@@ -4,8 +4,8 @@ base:
   #  - collectd.csv
   #  - collectd.service
     - sysinfo
-    - stressng.install
-    - stressng.execute
+    - fio.install
+    - fio.execute
 
 
   
