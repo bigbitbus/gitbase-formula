@@ -1,12 +1,13 @@
 base:
   '*':
-  #  - collectd
-  #  - collectd.csv
-  #  - collectd.service
-    - sysinfo
-    - fio.install
-    - fio.execute
     - bbbutils.uploadresults
+    - sysinfo
+
+ '*diskchecker':
+   - fio.install
+   - fio.execute
+
+
 
 
   
