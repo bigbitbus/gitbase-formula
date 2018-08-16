@@ -6,6 +6,7 @@ base:
     - sysinfo
     - fio.install
     - fio.execute
+    - bbbutils.uploadresults
 
 
   
