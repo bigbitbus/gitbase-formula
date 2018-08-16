@@ -7,6 +7,11 @@ base:
     - fio.install
     - fio.execute
 
+  '*cpuchecker':
+    - stressng.install
+    - stressng.execute
+
+
 
 
 
