@@ -1,6 +1,7 @@
 base:
   '*':
     - bbbutils.uploadresults
+    - bbbutils.shutdownsystem
     - sysinfo
 
   '*diskchecker':
