@@ -12,7 +12,17 @@ base:
     - stressng.install
     - stressng.execute
 
+test_cpusizer:
+  '*':
+    - sysinfo
+    - stressng.install
+    - stressng.execute
 
+test_diskchecker:
+  '*':
+    - sysinfo
+    - fio.install
+    - fio.execute
 
 
 
