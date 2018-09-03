@@ -1,6 +1,8 @@
 base:
   '*':
     - sysinfo
+  'jenkins-server':
+    - linux.storage
 
 test_cpusizer:
   '*':
