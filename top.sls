@@ -4,6 +4,7 @@ base:
   'jenkins-server':
     - linux.system
     - linux.storage
+    - jenkins
 
 test_cpusizer:
   '*':
