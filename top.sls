@@ -3,6 +3,7 @@ base:
     - sysinfo
   'jenkins-server':
     - linux.storage
+    - java
     # - jenkins
     # - nginx
     # - jenkins.nginx
