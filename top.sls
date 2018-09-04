@@ -3,9 +3,9 @@ base:
     - sysinfo
   'jenkins-server':
     - linux.storage
-    - jenkins
-    - nginx
-    - jenkins.nginx
+    # - jenkins
+    # - nginx
+    # - jenkins.nginx
 
 test_cpusizer:
   '*':
