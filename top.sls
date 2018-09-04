@@ -4,9 +4,9 @@ base:
   'jenkins-server':
     - linux.storage
     - java
-    # - jenkins
-    # - nginx
-    # - jenkins.nginx
+    - jenkins
+    - nginx
+    - jenkins.nginx
 
 test_cpusizer:
   '*':
