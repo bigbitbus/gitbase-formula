@@ -5,9 +5,7 @@ base:
     - linux.storage
     - java
     - jenkins
-    - nginx
-    - jenkins.nginx
-
+    
 test_cpusizer:
   '*':
     - stressng.install
