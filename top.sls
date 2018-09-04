@@ -2,7 +2,6 @@ base:
   '*':
     - sysinfo
   'jenkins-server':
-    - linux.system
     - linux.storage
     - jenkins
 
