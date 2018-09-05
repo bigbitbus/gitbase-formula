@@ -5,6 +5,7 @@ base:
     - linux.storage
     - java
     - jenkins
+    - jenkins_additional_packages
     
 test_cpusizer:
   '*':
